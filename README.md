@@ -1,2 +1,2 @@
 # learning
-learning at MITRE
+learning git
